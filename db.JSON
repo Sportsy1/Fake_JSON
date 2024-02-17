@@ -1,0 +1,19 @@
+{
+    "usuarers":[
+        {
+            "username": "Old_Computin",
+            "id": "1",
+            "cards": [5,22,199,77,122]
+        },
+        {
+            "username": "Maggot Man",
+            "id": "2",
+            "cards": [69, 420, 177, 1, 222]
+        },
+        {
+            "username": "Aegis VII",
+            "id": "3",
+            "cards": [7,9,3,4,400]
+        }
+    ]
+}
